@@ -1,0 +1,8 @@
+if getgenv().test == "hi" then
+    print("hi")
+    elseif getgenv().test == "sus" then
+    print("sus")
+    else
+    print("e")
+    end
+    
